@@ -1,0 +1,38 @@
+@media only screen and (max-width: 767px) {
+    .menu{
+        justify-content: unset;
+        background-color: #556270;
+    }
+    .menu-left{
+        padding-left: 5px;
+    }
+    .menu-right{
+        padding-right: 5px;
+    }
+    .banner-img {
+        display:none;
+    }
+    .banner-text {
+        position: unset;
+        color: black;
+        padding: 15px;
+    }
+    .content-head{
+        padding: 15px;
+    }
+    hr{
+        margin: 0px 15px;
+        display: block;
+    }
+   
+    .column{
+        padding: 0;
+    }
+    .content-images, .footer{
+        padding: 15px;
+    }
+    .column img{
+        width: 100%;
+        padding: 15px 0px;
+    }
+   
